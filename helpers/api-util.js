@@ -4,7 +4,6 @@ export const getAllEvents = async ()=>{
     const response = await axios.get('https://events-69040-default-rtdb.firebaseio.com/events.json');
     const data = response.data;
     const events = [];
-    console.log(response.data);
     for(const key in data){
         events.push({
             id: key,
