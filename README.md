@@ -5,7 +5,7 @@
 ## Description
 Next JS 데모 프로젝트 01
 ## address
-https://www.notion.so/jaek1783/EventPage-5feaf9fa7e2b44f6a7f1efbcc8d3c5be
+[https://www.notion.so/jaek1783/EventPage-5feaf9fa7e2b44f6a7f1efbcc8d3c5be](https://jaek1783.notion.site/Events-Page-Project-5feaf9fa7e2b44f6a7f1efbcc8d3c5be)
 ## Image
 <p align="center">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/73649967/201261154-568d3209-8a6d-4372-9b8b-80b4f991817d.png">
